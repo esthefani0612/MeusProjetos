@@ -1,2 +1,2 @@
-# Olá, me chamo Esthefani e estou começando na área de programação.
- Aqui estou adicionando pequenos projetos que estou desenvolvendo inicialmente.
+# Projeto de Login utilizando Hibernate e JFrame
+Este projeto é um exemplo de um sistema de login desenvolvido em Java, utilizando o Hibernate e JFrame.
